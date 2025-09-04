@@ -1,0 +1,8 @@
+#ifndef LOGGER_CONFIG_H
+#define LOGGER_CONFIG_H
+
+//#define ENABLE_LOG_DEBUG
+#define ENABLE_LOG_INFO
+#define ENABLE_LOG_ERROR
+
+#endif // LOGGER_CONFIG_H
